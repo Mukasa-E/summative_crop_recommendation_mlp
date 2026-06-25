@@ -96,8 +96,8 @@ Usage
 Clone the repository:
 
 bash
-git clone https://github.com/Mukasa-E/summative_crop_recommendation_mlP.git
-cd summative_crop_recommendation_mlP
+git clone https://github.com/Mukasa-E/summative_crop_recommendation_mlp.git
+cd summative_crop_recommendation_mlp
 Open the Jupyter notebook:
 
 bash
